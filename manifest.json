@@ -4,7 +4,7 @@
 	"start_url": ".",
 	"display": "standalone",
 	"background_color": "#fff",
-	"description": "あけおめルーレット",
+	"description": "あけましておめでとうございます．なんてありきたりなことを言いたくない奴はこれを回せ...",
 	"icons": [
 		{
 			"src": "./icon.png",
