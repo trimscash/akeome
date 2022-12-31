@@ -1,0 +1,21 @@
+{
+	"name": "あけおめルーレット",
+	"short_name": "あけおめルーレット",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "あけおめルーレット",
+	"icons": [
+		{
+			"src": "./icon.png",
+			"sizes": "1920x1920",
+			"type": "image/png"
+		}
+	],
+	"related_applications": [
+		{
+			"platform": "play",
+			"url": "https://trimscash.github.io/akeome/"
+		}
+	]
+}
